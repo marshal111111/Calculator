@@ -1,7 +1,7 @@
 # Calculator App
 
 
-![Homepage](/calculator/Images/Screenshot%202024-01-17%20at%209.41.02 PM.png)
+![Homepage](Images/Screenshot%202024-01-17%20at%209.41.02 PM.png)
 *Caption: The homepage showcasing featured products.*
 
 
