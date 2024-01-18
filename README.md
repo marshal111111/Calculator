@@ -1,5 +1,10 @@
 # Calculator App
 
+
+![Homepage](/calculator/Images/Screenshot%202024-01-17%20at%209.41.02 PM.png)
+*Caption: The homepage showcasing featured products.*
+
+
 ## Overview
 This is a simple yet powerful calculator application built with React and styled-components. The project provides basic arithmetic operations, ensuring a user-friendly experience for performing calculations.
 
