@@ -4,6 +4,10 @@
 ![Homepage](Images/1.png)
 *Caption: The homepage showcasing featured products.*
 
+![Live Project](Images/smart.png)
+*Caption: The homepage showcasing featured products.*
+
+
 
 ## Overview
 This is a simple yet powerful calculator application built with React and styled-components. The project provides basic arithmetic operations, ensuring a user-friendly experience for performing calculations.
